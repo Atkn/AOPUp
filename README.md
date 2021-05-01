@@ -1,3 +1,3 @@
 # AOPUp
 
-First application Basic App
+First application Aup App
